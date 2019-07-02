@@ -47,4 +47,5 @@
 Rule 2|TCP|127.0.0.1|80|-|8000
 
 ## 访问
-* 打开浏览器访问：[127.0.0.1](http://127.0.0.1) 即可
+* 打开浏览器访问：[127.0.0.1](http://127.0.0.1) 即可，显示如下：
+![apache-default-page](http://m.qpic.cn/psb?/V1252Obi0sLMks/jrZor*Ikz6e*Zcqr9tqJ5.nUnFLZ2v6ZX3bhqNc1AcM!/b/dDQBAAAAAAAA&bo=JwOXAwAAAAADB5I!&rf=viewer_4)
